@@ -39,13 +39,8 @@ Speech interactive eDocument reader
 
 
 ## Getting started
-1. Open the project's folder (C:\eDocumentReader_v3.1.0)
-
-2. Run the eDocumentReader.bat file with administrator privileges to start the server (You can right click on the file, and select "Run as administrator")
-
-3. Open the google chrome browser and enter https://<server_ip_address>:44301/Home/TheLittleFrog where <server_ip_address> is the Ip address of server
-
-4. If you see the text "Please select a story" in the browser, congratulations! You've successfully connected to the server.
+1. Open the google chrome browser and enter http://<server_ip_address>:8080/Home/TheLittleFrog where <server_ip_address> is the Ip address of server (Note that you can also run the browser from different copy on the network by using https://<server_ip_address>:44301/Home/TheLittleFrog)
+2. If you see the text "Please select a story" in the browser, congratulations! You've successfully connected to the server.
 
 ## License
 Apache License 2.0
