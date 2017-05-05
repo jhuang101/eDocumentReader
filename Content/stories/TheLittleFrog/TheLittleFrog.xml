@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<story name="The Little Frog">
+
+	<def_image src="/Content/stories/TheLittleFrog/images/bg_0.png">bg_green</def_image>
+	<def_image src="/Content/stories/TheLittleFrog/images/bg_1.png">bg_blue</def_image>
+
+	<def_sound src="stories/TheLittleFrog/src/sounds/cricket_noise_1.wav">noise_1</def_sound>
+
+	<def_sound src="stories/TheLittleFrog/src/sounds/frog_1.wav">frog_noise_short</def_sound>
+	
+	<def_action name="make_frog_sound_with_animation">
+		<play_sound>frog_noise_short</play_sound>
+	</def_action>
+	
+	<def_action name="scene_0">
+		<play_animation>0</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>
+	<def_action name="scene_1">
+		<play_animation>1</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>
+	<def_action name="scene_2">
+		<play_animation>2</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_3">
+		<play_animation>3</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_4">
+		<play_animation>4</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_5">
+		<play_animation>5</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_6">
+		<play_animation>6</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_7">
+		<play_animation>7</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_8">
+		<play_animation>8</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_9">
+		<play_animation>9</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_10">
+		<play_animation>10</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_11">
+		<play_animation>11</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_12">
+		<play_animation>12</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_13">
+		<play_animation>13</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_14">
+		<play_animation>14</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_15">
+		<play_animation>15</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_16">
+		<play_animation>16</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_17">
+		<play_animation>17</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_18">
+		<play_animation>18</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_19">
+		<play_animation>19</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_20">
+		<play_animation>20</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_21">
+		<play_animation>21</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_22">
+		<play_animation>22</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_23">
+		<play_animation>23</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_24">
+		<play_animation>24</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_25">
+		<play_animation>25</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_26">
+		<play_animation>26</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_27">
+		<play_animation>27</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_28">
+		<play_animation>28</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_29">
+		<play_animation>29</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_30">
+		<play_animation>30</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_31">
+		<play_animation>31</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_32">
+		<play_animation>32</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_33">
+		<play_animation>33</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>	
+	<def_action name="scene_34">
+		<play_animation>34</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>
+	<def_action name="scene_35">
+		<play_animation>35</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>
+	<def_action name="scene_36">
+		<play_animation>36</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>
+	<def_action name="scene_37">
+		<play_animation>37</play_animation>
+		<change_bg>bg_blue</change_bg>
+	</def_action>
+	
+	<!--now, the only variables in the annotate tag that can be interpreted are "object", "action" --> 
+	<!-- The story content is copyrighted to Dr. Gavin Miller -->
+	<page number="1" bg_sound="noise_1">
+		<paragraph>
+			<actionText><annotate action="scene_1">Once</annotate> there was a little <annotate object="frog" microAction="make_frog_sound_with_animation">frog,</annotate></actionText>
+			<actionText><annotate action="scene_2">who</annotate> hid beneath a rotting log.</actionText>
+			<actionText>A <annotate object="princess"  action="scene_3">princess</annotate> he had <annotate action="scene_4">spied</annotate> one day,</actionText>
+			<actionText>He <annotate action="scene_5">smiled</annotate> at her, <annotate action="scene_6">she</annotate> ran away.</actionText>
+		</paragraph>
+		<paragraph>
+			<actionText><annotate action="scene_7">He</annotate> cried and <annotate action="scene_8">cried,</annotate> and loved her <annotate action="scene_9">more</annotate></actionText>
+			<actionText>and cursed the greenish skin he wore.</actionText>
+			<actionText>He <annotate action="scene_10">longed</annotate> to be a handsome man,</actionText>
+			<actionText><annotate action="scene_11">to</annotate> win <annotate action="scene_12">her</annotate> heart and hold her hand.</actionText>
+		</paragraph>
+		<paragraph>
+			<actionText><annotate action="scene_13">But</annotate> froggy eyes cried froggy tears,</actionText>
+			<actionText>and misted up his bright ideas.</actionText>
+		</paragraph>
+		
+	</page>
+	<page number="2">
+		<paragraph>
+			<actionText><annotate action="scene_14">The</annotate> squirrels laughed to see him sad,</actionText>
+			<actionText><annotate action="scene_15">and</annotate> foxes howled and called him mad.</actionText>
+			<actionText><annotate action="scene_16">"I</annotate> am not mad, not even funny.</actionText>
+			<actionText><annotate action="scene_17">You'll</annotate> see! I'll <annotate action="scene_18">ask</annotate> my old friend Bunny."</actionText>
+		</paragraph>
+		<paragraph>
+			<actionText><annotate action="scene_19">Bunny</annotate> listened very grave,</actionText>
+			<actionText>his whiskers twitched, his tail swayed.</actionText>
+			<actionText><annotate action="scene_20">Bunny</annotate> waited 'til the end,</actionText>
+			<actionText>and <annotate action="scene_21">went</annotate> to find his long lost friend.</actionText>
+		</paragraph>
+		<paragraph>
+			<actionText><annotate action="scene_22">"Froggy</annotate> needs you, Toni dear,</actionText>
+			<actionText>to make him smile from ear to ear.</actionText>
+			<actionText>Kiss him please and do not wince.</actionText>
+			<actionText>Perhaps this frog might be a prince."</actionText>
+		</paragraph>
+	</page>
+	<page number="3">
+		<paragraph>
+			<actionText><annotate action="scene_23">"Since</annotate> you ask me," Toni said,</actionText>
+			<actionText>and <annotate action="scene_1000">bent</annotate> down her angelic head.</actionText>
+			<actionText><annotate action="scene_24">She</annotate> kissed the frog with ruby lips,</actionText>
+			<actionText><annotate action="scene_25">a</annotate> kiss to launch a thousand ships.</actionText>
+		</paragraph>
+		<paragraph>
+			<actionText><annotate action="scene_26">But</annotate> no great transformation came.</actionText>
+			<actionText><annotate action="scene_27">The</annotate> frog ran off to hide his shame.</actionText>
+			<actionText><annotate action="scene_28">Bunny</annotate> chased in hot pursuit.</actionText>
+			<actionText>"Don't be an ungrateful brute!"</actionText>
+		</paragraph>
+		<paragraph>	
+			<actionText><annotate action="scene_29">"Toni</annotate> kissed you when we met,</actionText>
+			<actionText><annotate action="scene_30">And</annotate> tried to make your dreams come true.</actionText>
+			<actionText><annotate action="scene_31">Doesn't</annotate> that make you feel proud,</actionText>
+			<actionText><annotate action="scene_32">and</annotate> even somewhat thankful too?</actionText>
+		</paragraph>
+	</page>
+	<page number="4">
+		<paragraph>
+			<actionText><annotate action="scene_33">"The</annotate> princess was a heartless hag.</actionText>
+			<actionText><annotate action="scene_34">She</annotate> wouldn't even look at you!</actionText>
+			<actionText>But Toni gave a royal thing,</actionText>
+			<actionText>unmatched by gold or diamond ring.</actionText>
+		</paragraph>
+		<paragraph>
+			<actionText>"She gave you love for who you are,</actionText>
+			<actionText>not how you look or what you wear.</actionText>
+			<actionText>You should be glad you're not alone,</actionText>
+			<actionText>and have two friends to call your own."</actionText>
+		</paragraph>
+		<paragraph>
+			<actionText><annotate action="scene_35">The</annotate> frog stopped still, and held his ground.</actionText>
+			<actionText>His eyes went moist, he lost his frown.</actionText>
+			<actionText>"Oh Bunny, dear, what can I do,</actionText>
+			<actionText>to thank two such good friends as you?"</actionText>
+		</paragraph>
+	</page>
+	<page number="5">
+		<paragraph>
+			<actionText><annotate action="scene_36">"Cast</annotate> off your cares and let us dance,</actionText>
+			<actionText>and don't be sad you took a chance.</actionText>
+			<actionText>For greater than a kingdom won,</actionText>
+			<actionText>is Toni's kiss, so let's have fun."</actionText>
+		</paragraph>
+		<paragraph>
+			<actionText>The Frog and Bunny danced all day,</actionText>
+			<actionText>and all the tears were dried away.</actionText>
+			<actionText>And happy was the little frog,</actionText>
+			<actionText><annotate action="scene_37">who</annotate> slept beneath the rotting log.</actionText>
+		</paragraph>
+	</page>
+</story>

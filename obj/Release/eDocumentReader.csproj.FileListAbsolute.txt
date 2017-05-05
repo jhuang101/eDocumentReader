@@ -1,0 +1,74 @@
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\eDocumentReader.dll.config
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\eDocumentReader.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\eDocumentReader.pdb
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Antlr3.Runtime.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.Owin.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.Owin.Security.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Newtonsoft.Json.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Owin.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.Helpers.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.Mvc.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.Optimization.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.Razor.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.WebPages.Deployment.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.WebPages.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.WebPages.Razor.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\WebGrease.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.Owin.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Microsoft.Owin.Security.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.Helpers.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.Mvc.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.Optimization.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.Razor.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.WebPages.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.WebPages.Deployment.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\System.Web.WebPages.Razor.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Antlr3.Runtime.pdb
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\bin\Newtonsoft.Json.xml
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\obj\Release\eDocumentReader.dll
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\obj\Release\eDocumentReader.pdb
+C:\Users\semlab\Documents\Visual Studio 2013\Projects\eDocumentReader\eDocumentReader\obj\Release\eDocumentReader.csprojResolveAssemblyReference.cache
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\eDocumentReader.dll.config
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\eDocumentReader.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\eDocumentReader.pdb
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Antlr3.Runtime.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.Owin.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.Owin.Security.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.Web.Infrastructure.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Newtonsoft.Json.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Owin.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.Helpers.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.Mvc.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.Optimization.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.Razor.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.WebPages.Deployment.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.WebPages.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.WebPages.Razor.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\WebGrease.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.Owin.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Microsoft.Owin.Security.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.Helpers.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.Mvc.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.Optimization.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.Razor.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.WebPages.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.WebPages.Deployment.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\System.Web.WebPages.Razor.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Antlr3.Runtime.pdb
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\bin\Newtonsoft.Json.xml
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\obj\Release\eDocumentReader.csprojResolveAssemblyReference.cache
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\obj\Release\eDocumentReader.dll
+C:\usr\jiahuang\workspace\eDocumentReader_new\eDocumentReader\obj\Release\eDocumentReader.pdb

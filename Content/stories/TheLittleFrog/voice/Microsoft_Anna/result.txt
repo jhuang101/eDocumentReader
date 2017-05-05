@@ -1,0 +1,435 @@
+start::1459795258164
+time::1459795258178.95|confidence::0.99|textResult::Once|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795258586|confidence::0.99|textResult::Once there|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795258992.8|confidence::0.99|textResult::Once there was|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795259238.6|confidence::0.99|textResult::Once there was a|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795259385.5|confidence::0.99|textResult::Once there was a little|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795259716.7|confidence::0.99|textResult::Once there was a little frog|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795260797.1|confidence::0.99|textResult::Once there was a little frog who|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795261028.45|confidence::0.99|textResult::Once there was a little frog who hid|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795261389.15|confidence::0.99|textResult::Once there was a little frog who hid beneath|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795261929.4|confidence::0.99|textResult::Once there was a little frog who hid beneath a|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795262007.1|confidence::0.99|textResult::Once there was a little frog who hid beneath a rotting|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795262432.45|confidence::0.99|textResult::Once there was a little frog who hid beneath a rotting log|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795262432.45|confidence::0.99|textResult::Once there was a little frog who hid beneath a rotting log|isHypothesis::False|key::startIndex|value::0|grammarName::|ruleName::index_0|duration::4258.45|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0000.wav
+start::1459795263432.45
+time::1459795263447.4|confidence::0.99|textResult::A|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795263520.05|confidence::0.99|textResult::A princess|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795264232.85|confidence::0.99|textResult::A princess he|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795264493.4|confidence::0.99|textResult::A princess he had|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795264726.95|confidence::0.99|textResult::A princess he had spied|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795265144.15|confidence::0.99|textResult::A princess he had spied one|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795265511.95|confidence::0.99|textResult::A princess he had spied one day|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795266276.7|confidence::0.99|textResult::A princess he had spied one day He|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795266484.4|confidence::0.99|textResult::A princess he had spied one day He smiled|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795267247.55|confidence::0.99|textResult::A princess he had spied one day He smiled at|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795267383.85|confidence::0.99|textResult::A princess he had spied one day He smiled at her|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795268032.1|confidence::0.99|textResult::A princess he had spied one day He smiled at her she|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795268296.9|confidence::0.99|textResult::A princess he had spied one day He smiled at her she ran|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795268627.4|confidence::0.99|textResult::A princess he had spied one day He smiled at her she ran away|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795268627.4|confidence::0.99|textResult::A princess he had spied one day He smiled at her she ran away|isHypothesis::False|key::startIndex|value::12|grammarName::|ruleName::index_12|duration::5184.95|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0001.wav
+start::1459795269627.4
+time::1459795269642.35|confidence::0.99|textResult::He|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795269803.15|confidence::0.99|textResult::He cried|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795270447.15|confidence::0.99|textResult::He cried and|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795270720.15|confidence::0.99|textResult::He cried and cried|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795271805.15|confidence::0.99|textResult::He cried and cried and|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795272045.4|confidence::0.99|textResult::He cried and cried and loved|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795272483.45|confidence::0.99|textResult::He cried and cried and loved her|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795272659.7|confidence::0.99|textResult::He cried and cried and loved her more|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795273182.65|confidence::0.99|textResult::He cried and cried and loved her more and|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795273395.65|confidence::0.99|textResult::He cried and cried and loved her more and cursed|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795273888.45|confidence::0.99|textResult::He cried and cried and loved her more and cursed the|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795274034.95|confidence::0.99|textResult::He cried and cried and loved her more and cursed the greenish|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795274791.5|confidence::0.99|textResult::He cried and cried and loved her more and cursed the greenish skin|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795275360.55|confidence::0.99|textResult::He cried and cried and loved her more and cursed the greenish skin he|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795275522.55|confidence::0.99|textResult::He cried and cried and loved her more and cursed the greenish skin he wore|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795275522.55|confidence::0.99|textResult::He cried and cried and loved her more and cursed the greenish skin he wore|isHypothesis::False|key::startIndex|value::26|grammarName::|ruleName::index_26|duration::5885.15|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0002.wav
+start::1459795276522.55
+time::1459795276537.5|confidence::0.99|textResult::He|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795276698.65|confidence::0.99|textResult::He longed|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795277090|confidence::0.99|textResult::He longed to|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795277267.9|confidence::0.99|textResult::He longed to be|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795277438.35|confidence::0.99|textResult::He longed to be a|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795277529.9|confidence::0.99|textResult::He longed to be a handsome|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795278150|confidence::0.99|textResult::He longed to be a handsome man|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795279057.2|confidence::0.99|textResult::He longed to be a handsome man to|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795279277.05|confidence::0.99|textResult::He longed to be a handsome man to win|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795279706.05|confidence::0.99|textResult::He longed to be a handsome man to win her|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795279941.5|confidence::0.99|textResult::He longed to be a handsome man to win her heart|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795280383.9|confidence::0.99|textResult::He longed to be a handsome man to win her heart and|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795280623.2|confidence::0.99|textResult::He longed to be a handsome man to win her heart and hold|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795281101.75|confidence::0.99|textResult::He longed to be a handsome man to win her heart and hold her|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795281338.3|confidence::0.99|textResult::He longed to be a handsome man to win her heart and hold her hand|isHypothesis::True|grammarName::|ruleName::index_41|duration::-1|wavePath::
+time::1459795281338.3|confidence::0.99|textResult::He longed to be a handsome man to win her heart and hold her hand|isHypothesis::False|key::startIndex|value::41|grammarName::|ruleName::index_41|duration::4805.75|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0003.wav
+start::1459795282338.3
+time::1459795282353.25|confidence::0.99|textResult::But|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795282566.6|confidence::0.99|textResult::But froggy|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795283110.75|confidence::0.99|textResult::But froggy eyes|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795283640.8|confidence::0.99|textResult::But froggy eyes cried|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795284067.75|confidence::0.99|textResult::But froggy eyes cried froggy|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795284586.65|confidence::0.99|textResult::But froggy eyes cried froggy tears|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795285619.55|confidence::0.99|textResult::But froggy eyes cried froggy tears and|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795285834.8|confidence::0.99|textResult::But froggy eyes cried froggy tears and misted|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795286232.95|confidence::0.99|textResult::But froggy eyes cried froggy tears and misted up|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795286466.65|confidence::0.99|textResult::But froggy eyes cried froggy tears and misted up his|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795286715.1|confidence::0.99|textResult::But froggy eyes cried froggy tears and misted up his bright|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795287157.7|confidence::0.99|textResult::But froggy eyes cried froggy tears and misted up his bright ideas|isHypothesis::True|grammarName::|ruleName::index_56|duration::-1|wavePath::
+time::1459795287157.7|confidence::0.99|textResult::But froggy eyes cried froggy tears and misted up his bright ideas|isHypothesis::False|key::startIndex|value::56|grammarName::|ruleName::index_56|duration::4809.4|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0004.wav
+finishPage
+start::1459795288157.7
+time::1459795288172.65|confidence::0.99|textResult::The|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795288334.25|confidence::0.99|textResult::The squirrels|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795289005.05|confidence::0.99|textResult::The squirrels laughed|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795289653.7|confidence::0.99|textResult::The squirrels laughed to|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795289765.3|confidence::0.99|textResult::The squirrels laughed to see|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795290057|confidence::0.99|textResult::The squirrels laughed to see him|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795290254.15|confidence::0.99|textResult::The squirrels laughed to see him sad|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795291244.9|confidence::0.99|textResult::The squirrels laughed to see him sad and|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795291459.75|confidence::0.99|textResult::The squirrels laughed to see him sad and foxes|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795292217.05|confidence::0.99|textResult::The squirrels laughed to see him sad and foxes howled|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795292759.95|confidence::0.99|textResult::The squirrels laughed to see him sad and foxes howled and|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795293032.95|confidence::0.99|textResult::The squirrels laughed to see him sad and foxes howled and called|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795293544.35|confidence::0.99|textResult::The squirrels laughed to see him sad and foxes howled and called him|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795293752.35|confidence::0.99|textResult::The squirrels laughed to see him sad and foxes howled and called him mad|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795293752.35|confidence::0.99|textResult::The squirrels laughed to see him sad and foxes howled and called him mad|isHypothesis::False|key::startIndex|value::0|grammarName::|ruleName::index_0|duration::5584.65|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0005.wav
+start::1459795294752.35
+time::1459795294767.3|confidence::0.99|textResult::I|isHypothesis::True|grammarName::|ruleName::index_14|duration::-1|wavePath::
+time::1459795294935.2|confidence::0.99|textResult::I am|isHypothesis::True|grammarName::|ruleName::index_14|duration::-1|wavePath::
+time::1459795295098.05|confidence::0.99|textResult::I am not|isHypothesis::True|grammarName::|ruleName::index_14|duration::-1|wavePath::
+time::1459795295351.3|confidence::0.99|textResult::I am not mad|isHypothesis::True|grammarName::|ruleName::index_14|duration::-1|wavePath::
+time::1459795296315.65|confidence::0.99|textResult::I am not mad not|isHypothesis::True|grammarName::|ruleName::index_14|duration::-1|wavePath::
+time::1459795296644.45|confidence::0.99|textResult::I am not mad not even|isHypothesis::True|grammarName::|ruleName::index_14|duration::-1|wavePath::
+time::1459795297063|confidence::0.99|textResult::I am not mad not even funny|isHypothesis::True|grammarName::|ruleName::index_14|duration::-1|wavePath::
+time::1459795297063|confidence::0.99|textResult::I am not mad not even funny|isHypothesis::False|key::startIndex|value::14|grammarName::|ruleName::index_14|duration::2300.65|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0006.wav
+start::1459795298063
+time::1459795298077.95|confidence::0.99|textResult::You'll|isHypothesis::True|grammarName::|ruleName::index_21|duration::-1|wavePath::
+time::1459795298303.05|confidence::0.99|textResult::You'll see|isHypothesis::True|grammarName::|ruleName::index_21|duration::-1|wavePath::
+time::1459795298303.05|confidence::0.99|textResult::You'll see|isHypothesis::False|key::startIndex|value::21|grammarName::|ruleName::index_21|duration::230.05|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0007.wav
+start::1459795299303.05
+time::1459795299318|confidence::0.99|textResult::I'll|isHypothesis::True|grammarName::|ruleName::index_23|duration::-1|wavePath::
+time::1459795299670.15|confidence::0.99|textResult::I'll ask|isHypothesis::True|grammarName::|ruleName::index_23|duration::-1|wavePath::
+time::1459795300006.55|confidence::0.99|textResult::I'll ask my|isHypothesis::True|grammarName::|ruleName::index_23|duration::-1|wavePath::
+time::1459795300247.4|confidence::0.99|textResult::I'll ask my old|isHypothesis::True|grammarName::|ruleName::index_23|duration::-1|wavePath::
+time::1459795300551.15|confidence::0.99|textResult::I'll ask my old friend|isHypothesis::True|grammarName::|ruleName::index_23|duration::-1|wavePath::
+time::1459795300966.8|confidence::0.99|textResult::I'll ask my old friend Bunny|isHypothesis::True|grammarName::|ruleName::index_23|duration::-1|wavePath::
+time::1459795300966.8|confidence::0.99|textResult::I'll ask my old friend Bunny|isHypothesis::False|key::startIndex|value::23|grammarName::|ruleName::index_23|duration::1653.75|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0008.wav
+start::1459795301966.8
+time::1459795301981.75|confidence::0.99|textResult::Bunny|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795302423.05|confidence::0.99|textResult::Bunny listened|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795303030.55|confidence::0.99|textResult::Bunny listened very|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795303403.3|confidence::0.99|textResult::Bunny listened very grave|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795304315.55|confidence::0.99|textResult::Bunny listened very grave his|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795304578|confidence::0.99|textResult::Bunny listened very grave his whiskers|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795305208.3|confidence::0.99|textResult::Bunny listened very grave his whiskers twitched|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795306108.3|confidence::0.99|textResult::Bunny listened very grave his whiskers twitched his|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795306350.95|confidence::0.99|textResult::Bunny listened very grave his whiskers twitched his tail|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795306805.5|confidence::0.99|textResult::Bunny listened very grave his whiskers twitched his tail swayed|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795306805.5|confidence::0.99|textResult::Bunny listened very grave his whiskers twitched his tail swayed|isHypothesis::False|key::startIndex|value::29|grammarName::|ruleName::index_29|duration::4828.7|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0009.wav
+start::1459795307805.5
+time::1459795307820.45|confidence::0.99|textResult::Bunny|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795308126.85|confidence::0.99|textResult::Bunny waited|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795308693.45|confidence::0.99|textResult::Bunny waited til|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795308902.05|confidence::0.99|textResult::Bunny waited til the|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795309113.15|confidence::0.99|textResult::Bunny waited til the end|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795310080.05|confidence::0.99|textResult::Bunny waited til the end and|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795310335.65|confidence::0.99|textResult::Bunny waited til the end and went|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795310685.85|confidence::0.99|textResult::Bunny waited til the end and went to|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795310851.8|confidence::0.99|textResult::Bunny waited til the end and went to find|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795311291.8|confidence::0.99|textResult::Bunny waited til the end and went to find his|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795311512.2|confidence::0.99|textResult::Bunny waited til the end and went to find his long|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795311991.7|confidence::0.99|textResult::Bunny waited til the end and went to find his long lost|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795312404.75|confidence::0.99|textResult::Bunny waited til the end and went to find his long lost friend|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795312404.75|confidence::0.99|textResult::Bunny waited til the end and went to find his long lost friend|isHypothesis::False|key::startIndex|value::39|grammarName::|ruleName::index_39|duration::4589.25|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0010.wav
+start::1459795313404.75
+time::1459795313419.7|confidence::0.99|textResult::Froggy|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795313938.6|confidence::0.99|textResult::Froggy needs|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795314322.5|confidence::0.99|textResult::Froggy needs you|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795314963.05|confidence::0.99|textResult::Froggy needs you Toni|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795315298.7|confidence::0.99|textResult::Froggy needs you Toni dear|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795316205.35|confidence::0.99|textResult::Froggy needs you Toni dear to|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795316352|confidence::0.99|textResult::Froggy needs you Toni dear to make|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795316667.3|confidence::0.99|textResult::Froggy needs you Toni dear to make him|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795316864.45|confidence::0.99|textResult::Froggy needs you Toni dear to make him smile|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795317485|confidence::0.99|textResult::Froggy needs you Toni dear to make him smile from|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795317726.55|confidence::0.99|textResult::Froggy needs you Toni dear to make him smile from ear|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795318139.45|confidence::0.99|textResult::Froggy needs you Toni dear to make him smile from ear to|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795318513.3|confidence::0.99|textResult::Froggy needs you Toni dear to make him smile from ear to ear|isHypothesis::True|grammarName::|ruleName::index_52|duration::-1|wavePath::
+time::1459795318513.3|confidence::0.99|textResult::Froggy needs you Toni dear to make him smile from ear to ear|isHypothesis::False|key::startIndex|value::52|grammarName::|ruleName::index_52|duration::5098.55|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0011.wav
+start::1459795319513.3
+time::1459795319528.25|confidence::0.99|textResult::Kiss|isHypothesis::True|grammarName::|ruleName::index_65|duration::-1|wavePath::
+time::1459795319833.1|confidence::0.99|textResult::Kiss him|isHypothesis::True|grammarName::|ruleName::index_65|duration::-1|wavePath::
+time::1459795320065.15|confidence::0.99|textResult::Kiss him please|isHypothesis::True|grammarName::|ruleName::index_65|duration::-1|wavePath::
+time::1459795320493.75|confidence::0.99|textResult::Kiss him please and|isHypothesis::True|grammarName::|ruleName::index_65|duration::-1|wavePath::
+time::1459795320681.45|confidence::0.99|textResult::Kiss him please and do|isHypothesis::True|grammarName::|ruleName::index_65|duration::-1|wavePath::
+time::1459795321088.3|confidence::0.99|textResult::Kiss him please and do not|isHypothesis::True|grammarName::|ruleName::index_65|duration::-1|wavePath::
+time::1459795321434.8|confidence::0.99|textResult::Kiss him please and do not wince|isHypothesis::True|grammarName::|ruleName::index_65|duration::-1|wavePath::
+time::1459795321434.8|confidence::0.99|textResult::Kiss him please and do not wince|isHypothesis::False|key::startIndex|value::65|grammarName::|ruleName::index_65|duration::1911.5|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0012.wav
+start::1459795322434.8
+time::1459795322449.75|confidence::0.99|textResult::Perhaps|isHypothesis::True|grammarName::|ruleName::index_72|duration::-1|wavePath::
+time::1459795323087.55|confidence::0.99|textResult::Perhaps this|isHypothesis::True|grammarName::|ruleName::index_72|duration::-1|wavePath::
+time::1459795323447.4|confidence::0.99|textResult::Perhaps this frog|isHypothesis::True|grammarName::|ruleName::index_72|duration::-1|wavePath::
+time::1459795324046.8|confidence::0.99|textResult::Perhaps this frog might|isHypothesis::True|grammarName::|ruleName::index_72|duration::-1|wavePath::
+time::1459795324399.35|confidence::0.99|textResult::Perhaps this frog might be|isHypothesis::True|grammarName::|ruleName::index_72|duration::-1|wavePath::
+time::1459795324566.05|confidence::0.99|textResult::Perhaps this frog might be a|isHypothesis::True|grammarName::|ruleName::index_72|duration::-1|wavePath::
+time::1459795324651.6|confidence::0.99|textResult::Perhaps this frog might be a prince|isHypothesis::True|grammarName::|ruleName::index_72|duration::-1|wavePath::
+time::1459795324651.6|confidence::0.99|textResult::Perhaps this frog might be a prince|isHypothesis::False|key::startIndex|value::72|grammarName::|ruleName::index_72|duration::2206.8|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0013.wav
+finishPage
+start::1459795325651.6
+time::1459795325666.55|confidence::0.99|textResult::Since|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795326055.8|confidence::0.99|textResult::Since you|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795326278.4|confidence::0.99|textResult::Since you ask|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795326659.1|confidence::0.99|textResult::Since you ask me|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795327258.75|confidence::0.99|textResult::Since you ask me Toni|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795327594.4|confidence::0.99|textResult::Since you ask me Toni said|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795328520.45|confidence::0.99|textResult::Since you ask me Toni said and|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795328805.1|confidence::0.99|textResult::Since you ask me Toni said and bent|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795329245.8|confidence::0.99|textResult::Since you ask me Toni said and bent down|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795329752.35|confidence::0.99|textResult::Since you ask me Toni said and bent down her|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795329975.75|confidence::0.99|textResult::Since you ask me Toni said and bent down her angelic|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795330546.75|confidence::0.99|textResult::Since you ask me Toni said and bent down her angelic head|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795330546.75|confidence::0.99|textResult::Since you ask me Toni said and bent down her angelic head|isHypothesis::False|key::startIndex|value::0|grammarName::|ruleName::index_0|duration::4885.15|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0014.wav
+start::1459795331546.75
+time::1459795331561.7|confidence::0.99|textResult::She|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795331803.05|confidence::0.99|textResult::She kissed|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795332221.95|confidence::0.99|textResult::She kissed the|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795332322.9|confidence::0.99|textResult::She kissed the frog|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795332962.3|confidence::0.99|textResult::She kissed the frog with|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795333148.6|confidence::0.99|textResult::She kissed the frog with ruby|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795333494.55|confidence::0.99|textResult::She kissed the frog with ruby lips|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795334458.15|confidence::0.99|textResult::She kissed the frog with ruby lips a|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795334533.9|confidence::0.99|textResult::She kissed the frog with ruby lips a kiss|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795334940.8|confidence::0.99|textResult::She kissed the frog with ruby lips a kiss to|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795335094.5|confidence::0.99|textResult::She kissed the frog with ruby lips a kiss to launch|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795335527.45|confidence::0.99|textResult::She kissed the frog with ruby lips a kiss to launch a|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795335639.05|confidence::0.99|textResult::She kissed the frog with ruby lips a kiss to launch a thousand|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795336285.15|confidence::0.99|textResult::She kissed the frog with ruby lips a kiss to launch a thousand ships|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795336285.15|confidence::0.99|textResult::She kissed the frog with ruby lips a kiss to launch a thousand ships|isHypothesis::False|key::startIndex|value::12|grammarName::|ruleName::index_12|duration::4728.4|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0015.wav
+start::1459795337285.15
+time::1459795337300.1|confidence::0.99|textResult::But|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795337505.3|confidence::0.99|textResult::But no|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795337893.65|confidence::0.99|textResult::But no great|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795338229.25|confidence::0.99|textResult::But no great transformation|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795339323.9|confidence::0.99|textResult::But no great transformation came|isHypothesis::True|grammarName::|ruleName::index_26|duration::-1|wavePath::
+time::1459795339323.9|confidence::0.99|textResult::But no great transformation came|isHypothesis::False|key::startIndex|value::26|grammarName::|ruleName::index_26|duration::2028.75|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0016.wav
+start::1459795340323.9
+time::1459795340338.85|confidence::0.99|textResult::The|isHypothesis::True|grammarName::|ruleName::index_31|duration::-1|wavePath::
+time::1459795340479.85|confidence::0.99|textResult::The frog|isHypothesis::True|grammarName::|ruleName::index_31|duration::-1|wavePath::
+time::1459795341119.25|confidence::0.99|textResult::The frog ran|isHypothesis::True|grammarName::|ruleName::index_31|duration::-1|wavePath::
+time::1459795341484.3|confidence::0.99|textResult::The frog ran off|isHypothesis::True|grammarName::|ruleName::index_31|duration::-1|wavePath::
+time::1459795341801.2|confidence::0.99|textResult::The frog ran off to|isHypothesis::True|grammarName::|ruleName::index_31|duration::-1|wavePath::
+time::1459795341977.25|confidence::0.99|textResult::The frog ran off to hide|isHypothesis::True|grammarName::|ruleName::index_31|duration::-1|wavePath::
+time::1459795342449.45|confidence::0.99|textResult::The frog ran off to hide his|isHypothesis::True|grammarName::|ruleName::index_31|duration::-1|wavePath::
+time::1459795342669.6|confidence::0.99|textResult::The frog ran off to hide his shame|isHypothesis::True|grammarName::|ruleName::index_31|duration::-1|wavePath::
+time::1459795342669.6|confidence::0.99|textResult::The frog ran off to hide his shame|isHypothesis::False|key::startIndex|value::31|grammarName::|ruleName::index_31|duration::2335.7|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0017.wav
+start::1459795343669.6
+time::1459795343684.55|confidence::0.99|textResult::Bunny|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795344125.85|confidence::0.99|textResult::Bunny chased|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795344585.75|confidence::0.99|textResult::Bunny chased in|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795344807.8|confidence::0.99|textResult::Bunny chased in hot|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795345120.25|confidence::0.99|textResult::Bunny chased in hot pursuit|isHypothesis::True|grammarName::|ruleName::index_39|duration::-1|wavePath::
+time::1459795345120.25|confidence::0.99|textResult::Bunny chased in hot pursuit|isHypothesis::False|key::startIndex|value::39|grammarName::|ruleName::index_39|duration::1440.65|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0018.wav
+start::1459795346120.25
+time::1459795346135.2|confidence::0.99|textResult::Don't|isHypothesis::True|grammarName::|ruleName::index_44|duration::-1|wavePath::
+time::1459795346526.8|confidence::0.99|textResult::Don't be|isHypothesis::True|grammarName::|ruleName::index_44|duration::-1|wavePath::
+time::1459795346810.85|confidence::0.99|textResult::Don't be an|isHypothesis::True|grammarName::|ruleName::index_44|duration::-1|wavePath::
+time::1459795347024.8|confidence::0.99|textResult::Don't be an ungrateful|isHypothesis::True|grammarName::|ruleName::index_44|duration::-1|wavePath::
+time::1459795347877.95|confidence::0.99|textResult::Don't be an ungrateful brute|isHypothesis::True|grammarName::|ruleName::index_44|duration::-1|wavePath::
+time::1459795347877.95|confidence::0.99|textResult::Don't be an ungrateful brute|isHypothesis::False|key::startIndex|value::44|grammarName::|ruleName::index_44|duration::1747.7|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0019.wav
+start::1459795348877.95
+time::1459795348892.9|confidence::0.99|textResult::Toni|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795349228.55|confidence::0.99|textResult::Toni kissed|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795349657.55|confidence::0.99|textResult::Toni kissed you|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795349832.5|confidence::0.99|textResult::Toni kissed you when|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795350040.3|confidence::0.99|textResult::Toni kissed you when we|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795350206.5|confidence::0.99|textResult::Toni kissed you when we met|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795350932.75|confidence::0.99|textResult::Toni kissed you when we met And|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795351317.5|confidence::0.99|textResult::Toni kissed you when we met And tried|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795351784|confidence::0.99|textResult::Toni kissed you when we met And tried to|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795351945.1|confidence::0.99|textResult::Toni kissed you when we met And tried to make|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795352260.45|confidence::0.99|textResult::Toni kissed you when we met And tried to make your|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795352541.75|confidence::0.99|textResult::Toni kissed you when we met And tried to make your dreams|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795353348.05|confidence::0.99|textResult::Toni kissed you when we met And tried to make your dreams come|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795353688|confidence::0.99|textResult::Toni kissed you when we met And tried to make your dreams come true|isHypothesis::True|grammarName::|ruleName::index_49|duration::-1|wavePath::
+time::1459795353688|confidence::0.99|textResult::Toni kissed you when we met And tried to make your dreams come true|isHypothesis::False|key::startIndex|value::49|grammarName::|ruleName::index_49|duration::4800.05|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0020.wav
+start::1459795354688
+time::1459795354702.95|confidence::0.99|textResult::Doesn't|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795355108.5|confidence::0.99|textResult::Doesn't that|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795355276.4|confidence::0.99|textResult::Doesn't that make|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795355588.45|confidence::0.99|textResult::Doesn't that make you|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795355677.8|confidence::0.99|textResult::Doesn't that make you feel|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795356062.4|confidence::0.99|textResult::Doesn't that make you feel proud|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795356976.5|confidence::0.99|textResult::Doesn't that make you feel proud and|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795357273.5|confidence::0.99|textResult::Doesn't that make you feel proud and even|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795357596.5|confidence::0.99|textResult::Doesn't that make you feel proud and even somewhat|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795358335.1|confidence::0.99|textResult::Doesn't that make you feel proud and even somewhat thankful|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795358756.55|confidence::0.99|textResult::Doesn't that make you feel proud and even somewhat thankful too|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795358756.55|confidence::0.99|textResult::Doesn't that make you feel proud and even somewhat thankful too|isHypothesis::False|key::startIndex|value::63|grammarName::|ruleName::index_63|duration::4058.55|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0021.wav
+finishPage
+start::1459795359756.55
+time::1459795359771.5|confidence::0.99|textResult::The|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795359886.7|confidence::0.99|textResult::The princess|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795360599.5|confidence::0.99|textResult::The princess was|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795360863.55|confidence::0.99|textResult::The princess was a|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795360914.3|confidence::0.99|textResult::The princess was a heartless|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795361751.75|confidence::0.99|textResult::The princess was a heartless hag|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795361751.75|confidence::0.99|textResult::The princess was a heartless hag|isHypothesis::False|key::startIndex|value::0|grammarName::|ruleName::index_0|duration::1985.2|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0022.wav
+start::1459795362751.75
+time::1459795362766.7|confidence::0.99|textResult::She|isHypothesis::True|grammarName::|ruleName::index_6|duration::-1|wavePath::
+time::1459795363059.25|confidence::0.99|textResult::She wouldn't|isHypothesis::True|grammarName::|ruleName::index_6|duration::-1|wavePath::
+time::1459795363415.1|confidence::0.99|textResult::She wouldn't even|isHypothesis::True|grammarName::|ruleName::index_6|duration::-1|wavePath::
+time::1459795363823.55|confidence::0.99|textResult::She wouldn't even look|isHypothesis::True|grammarName::|ruleName::index_6|duration::-1|wavePath::
+time::1459795364106.55|confidence::0.99|textResult::She wouldn't even look at|isHypothesis::True|grammarName::|ruleName::index_6|duration::-1|wavePath::
+time::1459795364243.35|confidence::0.99|textResult::She wouldn't even look at you|isHypothesis::True|grammarName::|ruleName::index_6|duration::-1|wavePath::
+time::1459795364243.35|confidence::0.99|textResult::She wouldn't even look at you|isHypothesis::False|key::startIndex|value::6|grammarName::|ruleName::index_6|duration::1481.6|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0023.wav
+start::1459795365243.35
+time::1459795365258.3|confidence::0.99|textResult::But|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795365485.65|confidence::0.99|textResult::But Toni|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795365821.3|confidence::0.99|textResult::But Toni gave|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795366165.7|confidence::0.99|textResult::But Toni gave a|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795366228.95|confidence::0.99|textResult::But Toni gave a royal|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795366786.65|confidence::0.99|textResult::But Toni gave a royal thing|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795367726.6|confidence::0.99|textResult::But Toni gave a royal thing unmatched|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795368468.8|confidence::0.99|textResult::But Toni gave a royal thing unmatched by|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795368663.95|confidence::0.99|textResult::But Toni gave a royal thing unmatched by gold|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795369186.6|confidence::0.99|textResult::But Toni gave a royal thing unmatched by gold or|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795369352.45|confidence::0.99|textResult::But Toni gave a royal thing unmatched by gold or diamond|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795370255|confidence::0.99|textResult::But Toni gave a royal thing unmatched by gold or diamond ring|isHypothesis::True|grammarName::|ruleName::index_12|duration::-1|wavePath::
+time::1459795370255|confidence::0.99|textResult::But Toni gave a royal thing unmatched by gold or diamond ring|isHypothesis::False|key::startIndex|value::12|grammarName::|ruleName::index_12|duration::5001.65|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0024.wav
+start::1459795371255
+time::1459795371269.95|confidence::0.99|textResult::She|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795371487.6|confidence::0.99|textResult::She gave|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795371842.6|confidence::0.99|textResult::She gave you|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795372093.95|confidence::0.99|textResult::She gave you love|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795372412.75|confidence::0.99|textResult::She gave you love for|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795372616.8|confidence::0.99|textResult::She gave you love for who|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795372886.1|confidence::0.99|textResult::She gave you love for who you|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795373189.6|confidence::0.99|textResult::She gave you love for who you are|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795374146.4|confidence::0.99|textResult::She gave you love for who you are not|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795374476.2|confidence::0.99|textResult::She gave you love for who you are not how|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795374739.3|confidence::0.99|textResult::She gave you love for who you are not how you|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795375005.4|confidence::0.99|textResult::She gave you love for who you are not how you look|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795375428.1|confidence::0.99|textResult::She gave you love for who you are not how you look or|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795375527.15|confidence::0.99|textResult::She gave you love for who you are not how you look or what|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795375803.95|confidence::0.99|textResult::She gave you love for who you are not how you look or what you|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795376030.4|confidence::0.99|textResult::She gave you love for who you are not how you look or what you wear|isHypothesis::True|grammarName::|ruleName::index_24|duration::-1|wavePath::
+time::1459795376030.4|confidence::0.99|textResult::She gave you love for who you are not how you look or what you wear|isHypothesis::False|key::startIndex|value::24|grammarName::|ruleName::index_24|duration::4765.4|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0025.wav
+start::1459795377030.4
+time::1459795377045.35|confidence::0.99|textResult::You|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795377225.05|confidence::0.99|textResult::You should|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795377510.6|confidence::0.99|textResult::You should be|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795377687.8|confidence::0.99|textResult::You should be glad|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795378017|confidence::0.99|textResult::You should be glad you're|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795378341.9|confidence::0.99|textResult::You should be glad you're not|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795378671.55|confidence::0.99|textResult::You should be glad you're not alone|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795379724.5|confidence::0.99|textResult::You should be glad you're not alone and|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795379928.55|confidence::0.99|textResult::You should be glad you're not alone and have|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795380312.6|confidence::0.99|textResult::You should be glad you're not alone and have two|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795380496.45|confidence::0.99|textResult::You should be glad you're not alone and have two friends|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795381249.4|confidence::0.99|textResult::You should be glad you're not alone and have two friends to|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795381388.25|confidence::0.99|textResult::You should be glad you're not alone and have two friends to call|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795381737.55|confidence::0.99|textResult::You should be glad you're not alone and have two friends to call your|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795382045.05|confidence::0.99|textResult::You should be glad you're not alone and have two friends to call your own|isHypothesis::True|grammarName::|ruleName::index_40|duration::-1|wavePath::
+time::1459795382045.05|confidence::0.99|textResult::You should be glad you're not alone and have two friends to call your own|isHypothesis::False|key::startIndex|value::40|grammarName::|ruleName::index_40|duration::5004.65|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0026.wav
+start::1459795383045.05
+time::1459795383060|confidence::0.99|textResult::The|isHypothesis::True|grammarName::|ruleName::index_55|duration::-1|wavePath::
+time::1459795383201|confidence::0.99|textResult::The frog|isHypothesis::True|grammarName::|ruleName::index_55|duration::-1|wavePath::
+time::1459795383840.4|confidence::0.99|textResult::The frog stopped|isHypothesis::True|grammarName::|ruleName::index_55|duration::-1|wavePath::
+time::1459795384309.1|confidence::0.99|textResult::The frog stopped still|isHypothesis::True|grammarName::|ruleName::index_55|duration::-1|wavePath::
+time::1459795385296.4|confidence::0.99|textResult::The frog stopped still and|isHypothesis::True|grammarName::|ruleName::index_55|duration::-1|wavePath::
+time::1459795385489.9|confidence::0.99|textResult::The frog stopped still and held|isHypothesis::True|grammarName::|ruleName::index_55|duration::-1|wavePath::
+time::1459795385842.55|confidence::0.99|textResult::The frog stopped still and held his|isHypothesis::True|grammarName::|ruleName::index_55|duration::-1|wavePath::
+time::1459795386103.4|confidence::0.99|textResult::The frog stopped still and held his ground|isHypothesis::True|grammarName::|ruleName::index_55|duration::-1|wavePath::
+time::1459795386103.4|confidence::0.99|textResult::The frog stopped still and held his ground|isHypothesis::False|key::startIndex|value::55|grammarName::|ruleName::index_55|duration::3048.35|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0027.wav
+start::1459795387103.4
+time::1459795387118.35|confidence::0.99|textResult::His|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795387381.9|confidence::0.99|textResult::His eyes|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795387804.35|confidence::0.99|textResult::His eyes went|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795388060.35|confidence::0.99|textResult::His eyes went moist|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795389054|confidence::0.99|textResult::His eyes went moist he|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795389232.95|confidence::0.99|textResult::His eyes went moist he lost|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795389901.35|confidence::0.99|textResult::His eyes went moist he lost his|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795390159.7|confidence::0.99|textResult::His eyes went moist he lost his frown|isHypothesis::True|grammarName::|ruleName::index_63|duration::-1|wavePath::
+time::1459795390159.7|confidence::0.99|textResult::His eyes went moist he lost his frown|isHypothesis::False|key::startIndex|value::63|grammarName::|ruleName::index_63|duration::3046.3|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0028.wav
+start::1459795391159.7
+time::1459795391174.65|confidence::0.99|textResult::Oh|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795391320.15|confidence::0.99|textResult::Oh Bunny|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795392251.2|confidence::0.99|textResult::Oh Bunny dear|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795393106.15|confidence::0.99|textResult::Oh Bunny dear what|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795393305.4|confidence::0.99|textResult::Oh Bunny dear what can|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795393478.95|confidence::0.99|textResult::Oh Bunny dear what can I|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795393626.8|confidence::0.99|textResult::Oh Bunny dear what can I do|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795394506.1|confidence::0.99|textResult::Oh Bunny dear what can I do to|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795394862.45|confidence::0.99|textResult::Oh Bunny dear what can I do to thank|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795395253|confidence::0.99|textResult::Oh Bunny dear what can I do to thank two|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795395397.6|confidence::0.99|textResult::Oh Bunny dear what can I do to thank two such|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795395759.55|confidence::0.99|textResult::Oh Bunny dear what can I do to thank two such good|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795396143.35|confidence::0.99|textResult::Oh Bunny dear what can I do to thank two such good friends|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795396870.5|confidence::0.99|textResult::Oh Bunny dear what can I do to thank two such good friends as|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795397076.3|confidence::0.99|textResult::Oh Bunny dear what can I do to thank two such good friends as you|isHypothesis::True|grammarName::|ruleName::index_71|duration::-1|wavePath::
+time::1459795397076.3|confidence::0.99|textResult::Oh Bunny dear what can I do to thank two such good friends as you|isHypothesis::False|key::startIndex|value::71|grammarName::|ruleName::index_71|duration::5906.6|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0029.wav
+finishPage
+start::1459795398076.3
+time::1459795398091.25|confidence::0.99|textResult::Cast|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795398603.2|confidence::0.99|textResult::Cast off|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795398921.1|confidence::0.99|textResult::Cast off your|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795399066.05|confidence::0.99|textResult::Cast off your cares|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795399536.1|confidence::0.99|textResult::Cast off your cares and|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795399718.9|confidence::0.99|textResult::Cast off your cares and let|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795399963.4|confidence::0.99|textResult::Cast off your cares and let us|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795400158.4|confidence::0.99|textResult::Cast off your cares and let us dance|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795401255.65|confidence::0.99|textResult::Cast off your cares and let us dance and|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795401473.5|confidence::0.99|textResult::Cast off your cares and let us dance and don't|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795401826.6|confidence::0.99|textResult::Cast off your cares and let us dance and don't be|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795402016.2|confidence::0.99|textResult::Cast off your cares and let us dance and don't be sad|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795402647.75|confidence::0.99|textResult::Cast off your cares and let us dance and don't be sad you|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795402914.25|confidence::0.99|textResult::Cast off your cares and let us dance and don't be sad you took|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795403250.6|confidence::0.99|textResult::Cast off your cares and let us dance and don't be sad you took a|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795403340|confidence::0.99|textResult::Cast off your cares and let us dance and don't be sad you took a chance|isHypothesis::True|grammarName::|ruleName::index_0|duration::-1|wavePath::
+time::1459795403340|confidence::0.99|textResult::Cast off your cares and let us dance and don't be sad you took a chance|isHypothesis::False|key::startIndex|value::0|grammarName::|ruleName::index_0|duration::5253.7|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0030.wav
+start::1459795404340
+time::1459795404354.95|confidence::0.99|textResult::For|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795404551.3|confidence::0.99|textResult::For greater|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795405091.4|confidence::0.99|textResult::For greater than|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795405326.7|confidence::0.99|textResult::For greater than a|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795405419.55|confidence::0.99|textResult::For greater than a kingdom|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795406027.15|confidence::0.99|textResult::For greater than a kingdom won|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795406827.4|confidence::0.99|textResult::For greater than a kingdom won is|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795407002.8|confidence::0.99|textResult::For greater than a kingdom won is Toni's|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795407415.9|confidence::0.99|textResult::For greater than a kingdom won is Toni's kiss|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795408169|confidence::0.99|textResult::For greater than a kingdom won is Toni's kiss so|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795408421.05|confidence::0.99|textResult::For greater than a kingdom won is Toni's kiss so let's|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795408737.8|confidence::0.99|textResult::For greater than a kingdom won is Toni's kiss so let's have|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795409052.75|confidence::0.99|textResult::For greater than a kingdom won is Toni's kiss so let's have fun|isHypothesis::True|grammarName::|ruleName::index_16|duration::-1|wavePath::
+time::1459795409052.75|confidence::0.99|textResult::For greater than a kingdom won is Toni's kiss so let's have fun|isHypothesis::False|key::startIndex|value::16|grammarName::|ruleName::index_16|duration::4702.75|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0031.wav
+start::1459795410052.75
+time::1459795410067.7|confidence::0.99|textResult::The|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795410208.7|confidence::0.99|textResult::The Frog|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795410848.1|confidence::0.99|textResult::The Frog and|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795411126.3|confidence::0.99|textResult::The Frog and Bunny|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795411527.35|confidence::0.99|textResult::The Frog and Bunny danced|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795412019.4|confidence::0.99|textResult::The Frog and Bunny danced all|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795412324.85|confidence::0.99|textResult::The Frog and Bunny danced all day|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795413190.5|confidence::0.99|textResult::The Frog and Bunny danced all day and|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795413446.4|confidence::0.99|textResult::The Frog and Bunny danced all day and all|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795413627.1|confidence::0.99|textResult::The Frog and Bunny danced all day and all the|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795413839.65|confidence::0.99|textResult::The Frog and Bunny danced all day and all the tears|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795414386|confidence::0.99|textResult::The Frog and Bunny danced all day and all the tears were|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795414570.85|confidence::0.99|textResult::The Frog and Bunny danced all day and all the tears were dried|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795415136.6|confidence::0.99|textResult::The Frog and Bunny danced all day and all the tears were dried away|isHypothesis::True|grammarName::|ruleName::index_29|duration::-1|wavePath::
+time::1459795415136.6|confidence::0.99|textResult::The Frog and Bunny danced all day and all the tears were dried away|isHypothesis::False|key::startIndex|value::29|grammarName::|ruleName::index_29|duration::5073.85|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0032.wav
+start::1459795416136.6
+time::1459795416151.55|confidence::0.99|textResult::And|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795416393.15|confidence::0.99|textResult::And happy|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795416928.7|confidence::0.99|textResult::And happy was|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795417177.6|confidence::0.99|textResult::And happy was the|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795417288.8|confidence::0.99|textResult::And happy was the little|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795417644.3|confidence::0.99|textResult::And happy was the little frog|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795418724.7|confidence::0.99|textResult::And happy was the little frog who|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795418898.5|confidence::0.99|textResult::And happy was the little frog who slept|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795419469.15|confidence::0.99|textResult::And happy was the little frog who slept beneath|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795420009.4|confidence::0.99|textResult::And happy was the little frog who slept beneath the|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795420123.8|confidence::0.99|textResult::And happy was the little frog who slept beneath the rotting|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795420549.15|confidence::0.99|textResult::And happy was the little frog who slept beneath the rotting log|isHypothesis::True|grammarName::|ruleName::index_43|duration::-1|wavePath::
+time::1459795420549.15|confidence::0.99|textResult::And happy was the little frog who slept beneath the rotting log|isHypothesis::False|key::startIndex|value::43|grammarName::|ruleName::index_43|duration::4402.55|wavePath::../Content/\stories\TheLittleFrog\voice\Microsoft_Anna\0033.wav
+finishPage
