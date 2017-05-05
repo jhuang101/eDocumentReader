@@ -8,8 +8,7 @@ Speech interactive eDocument reader
 * Dr. Gavin Miller of Adobe
 * Prof. Stanley Peters of Stanford University
 
-## Minimum Requirement
-=================
+## Minimum Requirements
 1. Windows 7,8, or 10
 
 2. At least 2 GHz of CPU
@@ -24,7 +23,6 @@ Speech interactive eDocument reader
 
 
 ## Configuration
-=================
 1. Open the applicationhost.config file in C:\Users\<username>\Documents\IISExpress\config with your favor editor. <username> is the name of your Windows account.
 
 2. Under the <sites> section in the applicationhost.config file, add the following code right before the closing tag </sites>. You need to replace 12.45.678.9 with your computer's IP address, and change the physicalPath parameter to point to the directoy of the project. If you see other <site> already exist in config file, change the id number to previous site's id number and increment by one.
@@ -41,8 +39,6 @@ Speech interactive eDocument reader
 
 
 ## Getting started
-=================
-
 1. Open the project's folder (C:\eDocumentReader_v3.1.0)
 
 2. Run the eDocumentReader.bat file with administrator privileges to start the server (You can right click on the file, and select "Run as administrator")
