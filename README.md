@@ -26,7 +26,7 @@ Speech interactive eDocument reader
 1. Open the applicationhost.config file in C:\Users\<username>\Documents\IISExpress\config with your favor editor. <username> is the name of your Windows account.
 
 2. Under the <sites> section in the applicationhost.config file, add the following code right before the closing tag </sites>. You need to replace 12.45.678.9 with your computer's IP address, and change the physicalPath parameter to point to the directoy of the project. If you see other <site> already exist in config file, change the id number to previous site's id number and increment by one.
-
+```xml
 <site name="eDocumentReader" id="2" serverAutoStart="true">
    <application path="/"  applicationPool="Clr4IntegratedAppPool">
       <virtualDirectory path="/" physicalPath="C:\eDocumentReader_v3.1.0" />
@@ -35,7 +35,7 @@ Speech interactive eDocument reader
       <binding protocol="http" bindingInformation=":8080:localhost" />
       <binding protocol="https" bindingInformation="*:44301:123.45.678.9" />
    </bindings>
-
+```
 
 
 ## Getting started
