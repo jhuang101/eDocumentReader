@@ -15,32 +15,30 @@ Speech interactive eDocument reader
 
 3. Minimum of 3 GB of RAM
 
-4. Google chrome browser version 49 or later (https://www.google.com/chrome/browser/desktop/)
+4. Internet Explorer 11 or Google chrome browser version 49 or later (https://www.google.com/chrome/browser/desktop/)
 
-5. IIS Express 7.0 or later (http://www.iis.net/downloads)
-
-6. A good noise cancelling headphone set
-
-
-## Configuration
-1. Open the applicationhost.config file in C:\Users\<username>\Documents\IISExpress\config with your favor editor. <username> is the name of your Windows account.
-
-2. Under the <sites> section in the applicationhost.config file, add the following code right before the closing tag </sites>. You need to replace 12.45.678.9 with your computer's IP address, and change the physicalPath parameter to point to the directoy of the project. If you see other <site> already exist in config file, change the id number to previous site's id number and increment by one.
-```xml
-<site name="eDocumentReader" id="2" serverAutoStart="true">
-   <application path="/"  applicationPool="Clr4IntegratedAppPool">
-      <virtualDirectory path="/" physicalPath="C:\eDocumentReader_v3.1.0" />
-   </application>
-   <bindings>
-      <binding protocol="http" bindingInformation=":8080:localhost" />
-      <binding protocol="https" bindingInformation="*:44301:123.45.678.9" />
-   </bindings>
-```
-
+5. A good noise cancelling headphone set
 
 ## Getting started
-1. Open the google chrome browser and enter http://<server_ip_address>:8080/Home/TheLittleFrog where <server_ip_address> is the Ip address of server (Note that you can also run the browser from different copy on the network by using https://<server_ip_address>:44301/Home/TheLittleFrog)
-2. If you see the text "Please select a story" in the browser, congratulations! You've successfully connected to the server.
+1. Download and install Microsoft Studio Community 2017 (https://www.visualstudio.com/downloads/). 
+
+2. Install ASP.NET and web developement in Microsoft Studio. 
+
+![alt text](https://github.com/jhuang101/eDocumentReader/raw/master/Documentations/images/aspnet.png "Install ASP.NET and web development")
+
+3. Clone this project to your local directory, and open the Solution file (eDocumentReader.sln) in Microsoft Studio.
+
+4. Select Build tab -> Build Solution.
+
+![alt text](https://github.com/jhuang101/eDocumentReader/raw/master/Documentations/images/build.png "build solution")
+
+5. Select Debug tab -> Start Debugging to run in debug mode.
+
+![alt text](https://github.com/jhuang101/eDocumentReader/raw/master/Documentations/images/debug.png "run in debug mode")
+
+6. Microsoft Studio should now brings up the eDocumentReader in Internet Explorer.
+
+![alt text](https://github.com/jhuang101/eDocumentReader/raw/master/Documentations/images/start_web.png "start the website")
 
 ## License
 Apache License 2.0
